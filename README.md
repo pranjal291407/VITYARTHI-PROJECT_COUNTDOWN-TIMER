@@ -24,6 +24,7 @@ INSTRUCTIONS FOR TESTING:<br>
 3.Test Timer Functionality<br>
 4.Test Task Display<br>
 
-
+SCREENSHOTS(SAMPLE OUTPUT)
+![image alt](https://github.com/pranjal291407/VITYARTHI-PROJECT_COUNTDOWN-TIMER/blob/d987d27e1569c07d05b8d90f4e7ff53f239a267c/sample%20output.png)
 
 
